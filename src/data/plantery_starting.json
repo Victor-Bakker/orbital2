@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Sun",
+    "coordinates": { "x": 748, "y": 398 },
+    "mass": 1e14,
+    "velocity": { "vx": 0, "vy": 0 },
+    "colour": "yellow",
+    "radius": 30
+  },
+  {
+    "name": "Moon",
+    "coordinates": { "x": 653, "y": 653 },
+    "mass": 7e2,
+    "velocity": { "vx": 1, "vy": 1 },
+    "colour": "grey",
+    "radius": 2
+  },
+  {
+    "name": "Mercury",
+    "coordinates": { "x": 590, "y": 590 },
+    "mass": 1e8,
+    "velocity": { "vx": 1, "vy": 0 },
+    "colour": "yellow",
+    "radius": 5
+  },
+  {
+    "name": "Venus",
+    "coordinates": { "x": 620, "y": 620 },
+    "mass": 1e6,
+    "velocity": { "vx": 1, "vy": 0 },
+    "colour": "grey",
+    "radius": 4
+  },
+  {
+    "name": "Earth",
+    "coordinates": { "x": 650, "y": 650 },
+    "mass": 1e6,
+    "velocity": { "vx": 1, "vy": 1 },
+    "colour": "blue",
+    "image": "earth.png",
+    "radius": 4
+  },
+  {
+    "name": "Mars",
+    "coordinates": { "x": 450, "y": 450 },
+    "mass": 1e6,
+    "velocity": { "vx": 2, "vy": 1 },
+    "colour": "red",
+    "radius": 4
+  },
+  {
+    "name": "Jupiter",
+    "coordinates": { "x": 100, "y": 200 },
+    "mass": 1e6,
+    "velocity": { "vx": 1, "vy": -0.5 },
+    "colour": "red",
+    "radius": 4
+  },
+  {
+    "name": "Saturn",
+    "coordinates": { "x": 60, "y": 180 },
+    "mass": 1e6,
+    "velocity": { "vx": 1, "vy": -0.4 },
+    "colour": "cyan",
+    "radius": 4
+  },
+  {
+    "name": "Uranus",
+    "coordinates": { "x": 40, "y": 160 },
+    "mass": 1e6,
+    "velocity": { "vx": 1, "vy": -0.3 },
+    "colour": "green",
+    "radius": 4
+  },
+  {
+    "name": "Neptune",
+    "coordinates": { "x": 20, "y": 150 },
+    "mass": 1e6,
+    "velocity": { "vx": 1, "vy": -0.3 },
+    "colour": "purple",
+    "radius": 4
+  },
+  {
+    "name": "Pluto",
+    "coordinates": { "x": 10, "y": 10 },
+    "mass": 1e6,
+    "velocity": { "vx": 2, "vy": -0.2 },
+    "colour": "blue",
+    "radius": 4
+  }
+]
